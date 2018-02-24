@@ -1,0 +1,4 @@
+yakitori 0
+udon 1
+meet 2
+gyoza 3
